@@ -1,0 +1,17 @@
+/* Hallmark · tokens · Cinema Viewport */
+
+:root {
+  --color-paper: oklch(14% 0.01 260);
+  --color-ink: oklch(98% 0.005 260);
+  --color-muted: oklch(65% 0.01 260);
+  --color-accent-codex: oklch(72% 0.19 155);
+  --color-accent-claude: oklch(78% 0.16 75);
+  --color-accent-gemini: oklch(72% 0.16 250);
+  --color-accent-grok: oklch(92% 0.01 260);
+
+  --font-display: 'Manrope Variable', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-editorial: 'Bodoni Moda', Georgia, serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  --ease-cinematic: cubic-bezier(0.16, 1, 0.3, 1);
+}
